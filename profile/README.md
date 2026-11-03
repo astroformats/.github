@@ -6,8 +6,8 @@ application.
 
 | Library | Format | Status |
 |---|---|---|
-| [OpenXISF](https://github.com/astroformats/openxisf) | [XISF 1.0](https://pixinsight.com/doc/docs/XISF-1.0-spec/XISF-1.0-spec.html), the Extensible Image Serialization Format of PixInsight | Stable: 1.0.1 |
-| [OpenFITS](https://github.com/astroformats/openfits) | [FITS 4.0](https://fits.gsfc.nasa.gov/fits_standard.html), the Flexible Image Transport System | Early release: 0.1.0 |
+| [OpenXISF](https://github.com/astroformats/openxisf) | [XISF 1.0](https://pixinsight.com/doc/docs/XISF-1.0-spec/XISF-1.0-spec.html), the Extensible Image Serialization Format of PixInsight | Stable: 1.1.0 |
+| [OpenFITS](https://github.com/astroformats/openfits) | [FITS 4.0](https://fits.gsfc.nasa.gov/fits_standard.html), the Flexible Image Transport System | Early release: 0.3.0 |
 | A SER library | SER, the video format of planetary and lunar capture | Planned |
 
 ## What they share
